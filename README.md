@@ -1,6 +1,4 @@
- I’m @R4t0LoCo 🐁
-
-I’m interested in data analysis, DSP, art, 
+data analysis, DSP, art, 
 Time series, gaussian process.
 
 - 🌱 I’m currently learning Keras.
